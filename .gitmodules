@@ -4,3 +4,6 @@
 [submodule "libs/test"]
 	path = libs/test
 	url = https://github.com/Vadinhao/git_temp_sub.git
+[submodule "FPMschedule"]
+	path = FPMschedule
+	url = https://github.com/Vadinhao/FPMschedule
