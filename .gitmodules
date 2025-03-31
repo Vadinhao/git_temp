@@ -1,3 +1,6 @@
 [submodule "betaflight"]
 	path = libs/betaflight
 	url = https://github.com/betaflight/betaflight.git
+[submodule "libs/test"]
+	path = libs/test
+	url = https://github.com/Vadinhao/git_temp_sub.git
