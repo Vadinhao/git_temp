@@ -10,3 +10,6 @@
 [submodule "libs/teeeets"]
 	path = libs/teeeets
 	url = https://github.com/Vadinhao/Calculator.git
+[submodule "libs/tets_222"]
+	path = libs/tets_222
+	url = https://github.com/Vadinhao/Calculator.git
