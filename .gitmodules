@@ -3,7 +3,10 @@
 	url = https://github.com/betaflight/betaflight.git
 [submodule "libs/test"]
 	path = libs/test
-	url = https://github.com/Vadinhao/git_temp_sub.git
+	url = git@github.com:Vadinhao/Test_Task_Natife.git
 [submodule "FPMschedule"]
 	path = FPMschedule
 	url = https://github.com/Vadinhao/FPMschedule
+[submodule "libs/teeeets"]
+	path = libs/teeeets
+	url = https://github.com/Vadinhao/Calculator.git
